@@ -1,0 +1,1 @@
+hi this is First test of git initalising in this project
