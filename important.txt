@@ -1,4 +1,5 @@
 # In jsx we can return only return one element. In case of multiple elements we need to rap them in a single element so we use <div>....</div> or <>...</> to wrap multiple elements
 
-how react call internally index.html -> main.js -> app.js. main inject app inside the <div id='root'>...</> that's why it's single page application cause at the end only index.html renders on browser
+# how react call internally index.html -> main.js -> app.js. main inject app inside the <div id='root'>...</> that's why it's single page application cause at the end only index.html renders on browser
 
+# We can't use lower case for custom tag functions in both basic react  and vite with react
